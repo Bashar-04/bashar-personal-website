@@ -1,0 +1,1 @@
+Simple personal website. Add your CV as assets/Bashar_Rashid_CV.pdf
